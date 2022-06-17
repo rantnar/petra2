@@ -1,8 +1,35 @@
 ####################### Spotlight #########################
-style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+style: "style1 orient-left content-align-center image-position-center onscroll-image-fade-in"
 title : "Spotlight"
 content: |
-  This is also a <strong>Spotlight</strong> element, and it's here because this demo would look a bit empty with just one spotlight. Like all spotlights, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
+  Współpracujemy z wieloma prestiżowymi producentami i dystrybutorami.
+  <script src="js/tagcanvas.min.js" type="text/javascript"></script>
+  <div id="myCanvasContainer">
+  <canvas width="400" height="400" id="myCanvas">
+  <a href=#"><img src=images/producenci/lanzet.jpg></a>
+  <a href=#"><img src=images/producenci/laufen.jpg></a>
+  <a href=#"><img src=images/producenci/nowa_gala.jpg></a>
+  <a href=#"><img src=images/producenci/opoczno.png></a>
+  <a href=#"><img src=images/producenci/radaway.png></a>
+  <a href=#"><img src=images/producenci/roca.jpg></a>
+  
+  
+  </canvas>
+  </div>
+  <script type="text/javascript">
+  window.onload = function() {
+  TagCanvas.noSelect = true;
+  TagCanvas.initial = [0.1,-0.1];
+  TagCanvas.noMouse = true;
+  try {
+  TagCanvas.Start('myCanvas');
+  } catch(e) {
+  // something went wrong, hide the canvas container
+  document.getElementById('myCanvasContainer').style.display = 'none';
+  }
+  };
+  </script>
+
 button: 
   label: "Learn More"
   link: "#"
