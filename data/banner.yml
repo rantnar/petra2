@@ -1,6 +1,6 @@
 ####################### Banner #########################
 style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
-title : <img src="images/logo.svg">
+title : <img src="images/logo.svg" width=100%>
 subtitle: |
   Salon Łazienek Ceramika jest firmą rodzinną. Została założona w 2001 roku i nie przerwanie, mimo zawirowań, realizuje państwa marzenia o gustownych wnętrzach.
 content : |
