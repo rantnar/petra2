@@ -3,8 +3,8 @@ style: "style1 orient-right content-align-center image-position-center onscroll-
 id: "first"
 title : "Wizualizacje"
 content: |
-  Wychodząc na przeciw oczekiwaniom nowoczesnych klientów, oferujemy wykonane przez naszą projektantkę wizualizacje Państwa łazienek. Jeżeli zdecydują się Państwo na zakup u nas, wizualizacja jest gratis.<br>Przykładowe projekty zobaczyć można w <a href="#">galerii</a>.<br>Szczegóły w regulaminie.
+  Wychodząc na przeciw oczekiwaniom nowoczesnych klientów, oferujemy wykonane przez naszą projektantkę wizualizacje Państwa łazienek. Jeżeli zdecydują się Państwo na zakup u nas, wizualizacja jest gratis.<br>Przykładowe projekty zobaczyć można w <a href="#galeria">galerii</a>.<br>Szczegóły w regulaminie.
 button: 
   label: "Regulamin"
   link: "reg/"
-image: "../images/spotlight01.jpg"
+image: "../images/DSC_7129.jpg"

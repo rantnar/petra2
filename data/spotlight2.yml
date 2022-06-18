@@ -1,6 +1,7 @@
 ####################### Spotlight #########################
 style: "style1 orient-left content-align-center image-position-center onscroll-image-fade-in"
 title : "Nasi Producenci"
+id: "second"
 content: |
   Współpracujemy z wieloma prestiżowymi producentami i dystrybutorami.
   <script src="js/tagcanvas.min.js" type="text/javascript"></script>
@@ -40,4 +41,4 @@ content: |
 button: 
   label: "Dalej"
   link: "#third"
-image: "images/spotlight02.jpg"
+image: "images/DSC_7288.jpg"
