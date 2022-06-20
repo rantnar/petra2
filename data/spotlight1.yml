@@ -1,10 +1,10 @@
 ####################### Spotlight #########################
-style: "style1 orient-right content-align-center image-position-center onscroll-image-fade-in"
+style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
 id: "first"
-title : "Wizualizacje"
+title : "O nas"
 content: |
-  Wychodząc na przeciw oczekiwaniom nowoczesnych klientów, oferujemy wykonane przez naszą projektantkę wizualizacje Państwa łazienek. Jeżeli zdecydują się Państwo na zakup u nas, wizualizacja jest gratis.<br>Przykładowe projekty zobaczyć można w <a href="#galeria">galerii</a>.<br>Szczegóły w regulaminie.
+ Pomysł stworzenia i prowadzenia Salonu Łazienek powstał w oparciu o wieloletnią praktykę w branży budowlanej, w szczególności branży sanitarnej, płytek ceramicznych, nowoczesnych systemów budowlanych i chemii budowlanej. Zamysłem jest obsługa kompleksowa klienta, w atmosferze zrozumienia potrzeb i możliwości finansowych naszych klientów, doradztwo materiałowe, logistyczne, co wiąże się z coraz większą gamą oferowanych produktów, oraz liczne oferty promocyjne. W roku 2013 siedziba i Salon firmowy został przeniesiony do wyremontowanego obiektu na ulicy Wincentego Pola 8 na teren byłej Huty Szkła Technicznego. Na powierzchni ponad 400 m2 wyeksponowane zostały gotowe aranżacje łazienek , armatura sanitarna, oświetlenie łazienkowe, wanny wolnostojące, kabiny natryskowe, baterie do łazienek w różnych kolorach, szafki z umywalkami oraz niezliczona liczba ekspozytorów z płytkami najlepszych polskich oraz europejskich producentów. W roku 2017 stworzyliśmy dla państwa również strefę oświetlenia która na bieżąco uaktualniamy o istniejące i nadchodzące trendy w oświetlaniu pomieszczeń. Zapraszamy Państwa serdecznie do skorzystania z naszej oferty.
 button: 
-  label: "Regulamin"
-  link: "reg/"
+  label: "Dalej"
+  link: "#third"
 image: "../images/DSC_7129.jpg"
