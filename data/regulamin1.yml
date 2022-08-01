@@ -1,28 +1,42 @@
 ####################### Spotlight #########################
-style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
+style: "style5 orient-center content-align-left image-position-center onscroll-image-fade-in"
 id: "first"
 title : "Regulamin korzystania z usług projektanta i wykonywania wizualizacji w salonie łazienek Ceramika"
 content: |
 
-    1. Salon Łazienek Ceramika świadczy usługi polegające na wizualizacji wnętrza (zaprojektowania), przy użyciu programu komputerowego CAD DECOR.<br>
-    2. Projektowanie pomieszczeń jest bezpłatne dla klientów firmy Salon Łazienek Ceramika , którzy dokonują w salonie zakupu płytek i wyrobów sanitarnych.<br>
-    3. Wykonany projekt aranżacji nie stanowi dokumentacji architektoniczno-budowlanej. Stanowi autorską koncepcje wizualizacji wnętrza o wymiarach dostarczonych przez klienta.<br> 
-    4. Zapłata za towar nie stanowi przeniesienia praw autorskich majątkowych na klienta.<br>
-    5. Za każde przyjęcie zlecenia wykonania projektu sprzedawca/projektant pobiera od klienta zaliczkę na poczet przyszłej faktury zakupu płytek w Salonie Łazienek Ceramika. W momencie wycofania się klienta z chęci zakupu zaliczka zostanie przeksięgowana na poczet wykonanej usługi projektowania.<br>
-    6. Projektant/sprzedawca pobiera od klienta zaliczkę na poczet przyszłej faktury zakupu Towarów w wysokości 50zł/m2 podłogi(jednak nie mniej niż 500 zł). W przypadku pomieszczeń o powierzchni podłogi większej niż 20m/2 zaliczka jest negocjowana indywidualnie z klientem. <br>
-    6. Klient potwierdza zlecenie wypisując kartę projektową z odręcznymi rysunkami oraz wymiarami projektowanego pomieszczenia. Wymiary pomieszczenia dostarcza klient.<br>
-    7. W ramach jednego projektu klient ma prawo wykonania maksymalnie dwóch zmian bezpłatnie. Jeden projekt dotyczy jednej kolekcji płytek, każda kolejna zmiana kolekcji w ramach tego samego pomieszczenia będzie traktowana jako osobny projekt.<br>
-    8. Projektant zobowiązuje się do przedstawienia wizualizacji (projektu) klientowi w terminie maksymalnie 7 dni roboczych.<br>
-    9. Gotowy projekt powinien składać się z wizualizacji pomieszczenia, wizualizacji każdej ściany osobno, zestawienia ilościowego i wartościowego płytek, propozycji dodatkowych elementów wyposażenia, ( kabina prysznicowa, wanna, armatura sanitarna, baterie, oświetlenie pomieszczenia).<br>
-    10. Zamknięcie projektu następuje w momencie akceptacji wersji ostatecznej przez klienta.<br>
-    11. Po akceptacji wersji ostatecznej, wszelkie zmiany projektu, lub odstąpienie od jego realizacji, albo niezgodność wymiarów uprzednio podanych przez Klienta z rzeczywistością, nie stanowią podstawy do zwrotu zakupionych wcześniej Towarów.<br>
-    12. Klient zamawiając towar z projektu przyjmuje do wiadomości, że wszelkie ilości materiałów są ilościami szacowanymi, które przed zamówieniem klient ma obowiązek zweryfikować. Przed położeniem płytek należy sprawdzić rzeczywisty wymiar oraz odcień płytek.<br>
-    13. Istnieje możliwość wykonania projektu bez zakupu materiałów. W takim przypadku faktura za wykonanie usługi zostanie wystawiona w wartości odpowiadającej 50zł/m2 podłogi, ale nie mniej niż 500zł.<br>
-    14. Nie dokonanie zakupu Towarów w terminie 90 dni od dnia zapłaty kaucji będzie traktowane jako rezygnacja z zakupu, skutkująca utratą uprzednio wpłaconej kaucji.<br>
+    <b>1.</b> Salon Łazienek Ceramika świadczy usługi polegające na wizualizacji wnętrza (zaprojektowania), przy użyciu programu komputerowego CAD DECOR.<br>
+    <br>
+    <b>1.</b> Projektowanie pomieszczeń jest bezpłatne dla klientów firmy Salon Łazienek Ceramika , którzy dokonują w salonie zakupu płytek i wyrobów sanitarnych.<br>
+    <br>
+    <b>1.</b> Wykonany projekt aranżacji nie stanowi dokumentacji architektoniczno-budowlanej. Stanowi autorską koncepcje wizualizacji wnętrza o wymiarach dostarczonych przez klienta.<br> 
+    <br>
+    <b>1.</b> Zapłata za towar nie stanowi przeniesienia praw autorskich majątkowych na klienta.<br>
+    <br>
+    <b>1.</b> Za każde przyjęcie zlecenia wykonania projektu sprzedawca/projektant pobiera od klienta zaliczkę na poczet przyszłej faktury zakupu płytek w Salonie Łazienek Ceramika. W momencie wycofania się klienta z chęci zakupu zaliczka zostanie przeksięgowana na poczet wykonanej usługi projektowania.<br>
+    <br>
+    <b>1.</b> Projektant/sprzedawca pobiera od klienta zaliczkę na poczet przyszłej faktury zakupu Towarów w wysokości 50zł/m2 podłogi(jednak nie mniej niż 500 zł). W przypadku pomieszczeń o powierzchni podłogi większej niż 20m/2 zaliczka jest negocjowana indywidualnie z klientem. <br>
+    <br>
+    <b>1.</b> Klient potwierdza zlecenie wypisując kartę projektową z odręcznymi rysunkami oraz wymiarami projektowanego pomieszczenia. Wymiary pomieszczenia dostarcza klient.<br>
+    <br>
+    <b>1.</b> W ramach jednego projektu klient ma prawo wykonania maksymalnie dwóch zmian bezpłatnie. Jeden projekt dotyczy jednej kolekcji płytek, każda kolejna zmiana kolekcji w ramach tego samego pomieszczenia będzie traktowana jako osobny projekt.<br>
+    <br>
+    <b>1.</b> Projektant zobowiązuje się do przedstawienia wizualizacji (projektu) klientowi w terminie maksymalnie 7 dni roboczych.<br>
+    <br>
+    <b>1.</b> Gotowy projekt powinien składać się z wizualizacji pomieszczenia, wizualizacji każdej ściany osobno, zestawienia ilościowego i wartościowego płytek, propozycji dodatkowych elementów wyposażenia, ( kabina prysznicowa, wanna, armatura sanitarna, baterie, oświetlenie pomieszczenia).<br>
+    <br>
+    <b>1.</b> Zamknięcie projektu następuje w momencie akceptacji wersji ostatecznej przez klienta.<br>
+    <br>
+    12. Po akceptacji wersji ostatecznej, wszelkie zmiany projektu, lub odstąpienie od jego realizacji, albo niezgodność wymiarów uprzednio podanych przez Klienta z rzeczywistością, nie stanowią podstawy do zwrotu zakupionych wcześniej Towarów.<br>
+    <br>
+    13. Klient zamawiając towar z projektu przyjmuje do wiadomości, że wszelkie ilości materiałów są ilościami szacowanymi, które przed zamówieniem klient ma obowiązek zweryfikować. Przed położeniem płytek należy sprawdzić rzeczywisty wymiar oraz odcień płytek.<br>
+    <br>
+    14. Istnieje możliwość wykonania projektu bez zakupu materiałów. W takim przypadku faktura za wykonanie usługi zostanie wystawiona w wartości odpowiadającej 50zł/m2 podłogi, ale nie mniej niż 500zł.<br>
+    <br>
+    15. Nie dokonanie zakupu Towarów w terminie 90 dni od dnia zapłaty kaucji będzie traktowane jako rezygnacja z zakupu, skutkująca utratą uprzednio wpłaconej kaucji.<br>
 
 
   
 button: 
   label: "Powrót"
   link: ".."
-image: "../images/gallery/w1.jpg"
+image: "../images/pexels-rene-asmussen-1358912.jpg"
