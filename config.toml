@@ -27,9 +27,8 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
   github = "/"
   twitter = ""
   email = "biuro@ceramikapetra.pl"
-  instagram = "https://instagram.com"
-  linkedin = "https://linkedin.com"
-  telegram = "https://telegram.org"
+  instagram = "https://www.instagram.com/ceramika_petra/"
+  facebook = "https://facebook.com"
 
   [markup]
   [markup.goldmark]
