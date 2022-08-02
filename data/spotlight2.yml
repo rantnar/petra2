@@ -3,7 +3,7 @@ style: "style1 orient-left content-align-center image-position-center onscroll-i
 title : "Nasi Producenci"
 id: "second"
 content: |
-  Współpracujemy z wieloma prestiżowymi producentami i dystrybutorami.
+  Współpracujemy z wieloma prestiżowymi producentami i dystrybutorami, krótych produkty można obejrzeć w naszym salonie.
   <script src="js/tagcanvas.min.js" type="text/javascript"></script>
   <div id="myCanvasContainer">
   <canvas width="400" height="400" id="myCanvas">
