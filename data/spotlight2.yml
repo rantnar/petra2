@@ -27,8 +27,9 @@ content: |
   <script type="text/javascript">
   window.onload = function() {
   TagCanvas.noSelect = true;
-  TagCanvas.initial = [0.05,-0.05];
+  TagCanvas.initial = [0.0,-0.15];
   TagCanvas.noMouse = true;
+  TagCanvas.shape = "hring";
   try {
   TagCanvas.Start('myCanvas');
   } catch(e) {
@@ -41,4 +42,4 @@ content: |
 button: 
   label: "Dalej"
   link: "#third"
-image: "images/pexels-cottonbro-4153152jpg"
+image: "images/pexels-cottonbro-4153152.jpg"
