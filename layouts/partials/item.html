@@ -2,4 +2,7 @@
     <span class="icon {{ .style }}"></span>
     <h3>{{ .name }}</h3>
     <p>{{ .content }}</p>
+    {{ with .button }}<ul class="actions stacked">
+            <li><a href="{{ .link }}" class="button">{{ .label }}</a></li>
+        </ul>{{ end }}
 </section>
