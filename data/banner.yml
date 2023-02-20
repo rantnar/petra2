@@ -7,6 +7,6 @@ content : |
    <h2>Projektowanie łazienek</h2>Wychodząc na przeciw oczekiwaniom nowoczesnych klientów, oferujemy wykonane przez naszą projektantkę wizualizacje Państwa łazienek. Jeżeli zdecydują się Państwo na zakup u nas, wizualizacja jest gratis.<br>Przykładowe projekty zobaczyć można w <a href="#galeria">galerii</a>.<br>Szczegóły w regulaminie.
 button: 
   label: "Regulamin"
-  link: "reg/"
+  link: "regulamin"
 image : "images/banner.jpg"
 

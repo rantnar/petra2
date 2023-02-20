@@ -1,0 +1,18 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "invest"
+title : "Obsługa Inwestycji"
+content: |
+  Współpraca z Salonem Łazienek "Ceramika" to nie tylko piękne projekty i doskonały wybór ekskluzywnych produktów dla klientów detalicznych. Obsługujemy również wszelkiego rodzaju inwestycje pomagając inwestorom w zakupie i dostarczeniu wszelkich materiałów budowlanych lub wykończeniowych.
+   <br>
+   W sprawie inwestycji prosimy o kontakt z naszym przedstawicielem:<br>
+   <br>
+   Radosław Gąska<br>
+   tel. 555222333<br>
+   e-mail. <a href="mailto:radek@ceramikapetra.pl">radek@ceramikapetra.pl</a><br>
+   <br>
+   Poniżej pobrać można listy rekomendacyjne firm z którymi już współpracowaliśmy.
+button: 
+  label: "Listy referencyjne"
+  link: "#items"
+image: "../images/photo_invest.jpg"

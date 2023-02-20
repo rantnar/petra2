@@ -1,0 +1,7 @@
+{{ define "main" }}
+    {{ $spotlightData := index site.Data.investments .File.ContentBaseName }}
+    {{ with $spotlightData }}
+        {{ partial "spotlight" . }}
+    {{ end }}
+    {{ partial "template/footer" . }}
+{{ end }}

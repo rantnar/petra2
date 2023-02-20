@@ -1,4 +1,5 @@
 title : "Obsługa inwestycji"
+id : "items"
 content: |
    Współpraca z Salonem Łazienek "Ceramika" to nie tylko piękne projekty i doskonały wybór ekskluzywnych produktów dla klientów detalicznych. Obsługujemy również wszelkiego rodzaju inwestycje pomagając inwestorom w zakupie i dostarczeniu wszelkich materiałów budowlanych lub wykończeniowych.
    <br>
@@ -11,18 +12,25 @@ content: |
    Poniżej pobrać można listy rekomendacyjne firm z którymi już współpracowaliśmy.
 style: "style1 medium onscroll-fade-in"
 items:
-  # feature item loop
   - name : "Osiedle jakiestam"
     content : "Dostarczenie materiałów wykończeniowych i wykonanie hydroizolacji.<br>"
     button:
-      link : "https://google.com"
-      label : "Pobierz"
+      link : "investments/investment-1"
+      label : "Zobacz"
     style : "style2 major fa-file"
   
   - name : "Osiedle jakiestam"
     content : "Dostarczenie materiałów wykończeniowych i wykonanie hydroizolacji.<br>"
     button:
-      link : "https://google.com"
-      label : "Pobierz"
+      link : "investments/investment-2"
+      label : "Zobacz"
     style : "style2 major fa-file"
+  
+  - name : "Osiedle jakiestam"
+    content : "Dostarczenie materiałów wykończeniowych i wykonanie hydroizolacji.<br>"
+    button:
+      link : "investments/investment-3"
+      label : "Zobacz"
+    style : "style2 major fa-file"
+
     
