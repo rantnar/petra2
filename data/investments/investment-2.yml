@@ -1,10 +1,10 @@
 ####################### Spotlight #########################
 style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
 id: ""
-title : "O nas"
+title : "Czarny Kamień Resort & Spa"
 content: |
-  Informacje na temat inwestycji.
+  Dostarczenie materiałów wykończeniowych i wykonanie hydroizolacji.
 button: 
-  label: "Pobierz"
-  link: "#"
-image: "../images/DSC_7129_2.jpg"
+  label: "List referencyjny"
+  link: "../../documents/investment-2.pdf"
+image: "../../images/investments/investment-2.jpg"

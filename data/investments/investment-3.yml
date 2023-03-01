@@ -1,10 +1,10 @@
 ####################### Spotlight #########################
 style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
 id: ""
-title : "O nas"
+title : "Nova Północ w Zgorzelcu. Budynki A, B, C, etap 1"
 content: |
-  Informacje na temat inwestycji.
+  Doradztwo inwestycyjne. Zaopatrzenie inwestycji w płytki gresowe oraz chemie budowlaną.
 button: 
-  label: "Pobierz"
-  link: "#"
-image: "../images/DSC_7129_2.jpg"
+  label: "List referencyjny"
+  link: "../../documents/investment-3.pdf"
+image: "../../images/investments/investment-3.jpg"

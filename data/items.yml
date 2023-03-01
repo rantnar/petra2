@@ -1,36 +1,59 @@
 title : "Obsługa inwestycji"
 id : "items"
 content: |
-   Współpraca z Salonem Łazienek "Ceramika" to nie tylko piękne projekty i doskonały wybór ekskluzywnych produktów dla klientów detalicznych. Obsługujemy również wszelkiego rodzaju inwestycje pomagając inwestorom w zakupie i dostarczeniu wszelkich materiałów budowlanych lub wykończeniowych.
-   <br>
-   W sprawie inwestycji prosimy o kontakt z naszym przedstawicielem:<br>
-   <br>
-   Radosław Gąska<br>
-   tel. 555222333<br>
-   e-mail. <a href="mailto:radek@ceramikapetra.pl">radek@ceramikapetra.pl</a><br>
-   <br>
    Poniżej pobrać można listy rekomendacyjne firm z którymi już współpracowaliśmy.
+    <br><br>
+    W sprawie zapytań prosimy o kontakt mailowy lub telefoniczny.<br>
+    Radosław Gąska<br>
+    tel. 502 955 555<br>
+    tel. 75 764 84 08<br>
+    e-mail: <a href="mailto:inwestycje@ceramikapetra.pl">inwestycje@ceramikapetra.pl</a>
+
+    
+
 style: "style1 medium onscroll-fade-in"
 items:
-  - name : "Osiedle jakiestam"
-    content : "Dostarczenie materiałów wykończeniowych i wykonanie hydroizolacji.<br>"
+  - name : "Młodzieżowe schronisko w Staniszowie"
+    content : "Rozbudowa schroniska. Zaopatrzenie inwestycji w płytki gresowe oraz chemie budowlaną."
     button:
       link : "investments/investment-1"
       label : "Zobacz"
-    style : "style2 major fa-file"
+    style : "style2 major fa-building"
   
-  - name : "Osiedle jakiestam"
-    content : "Dostarczenie materiałów wykończeniowych i wykonanie hydroizolacji.<br>"
+  - name : "Czarny Kamień Resort & Spa"
+    content : "Dostarczenie materiałów wykończeniowych i wykonanie hydroizolacji."
     button:
       link : "investments/investment-2"
       label : "Zobacz"
-    style : "style2 major fa-file"
+    style : "style2 major fa-building"
   
-  - name : "Osiedle jakiestam"
-    content : "Dostarczenie materiałów wykończeniowych i wykonanie hydroizolacji.<br>"
+  - name : "Nova Północ w Zgorzelcu. Budynki A, B, C, etap 1"
+    content : "Doradztwo inwestycyjne. Zaopatrzenie inwestycji w płytki gresowe oraz chemie budowlaną."
     button:
       link : "investments/investment-3"
       label : "Zobacz"
-    style : "style2 major fa-file"
+    style : "style2 major fa-building"
+  
+  - name : "Publiczne przedszkole nr. 3 w Strzegomiu"
+    content : "Realizacja dostaw hydroizolacji, chemii budowlanej, systemów tarasowych i płytek gresowych."
+    button:
+      link : "investments/investment-4"
+      label : "Zobacz"
+    style : "style2 major fa-building"
+
+  - name : "Zespół szkół licealno-gimnazjalnych w Mirsku"
+    content : |
+      "Realizacja dostaw płytek gresowych."
+    button:
+      link : "investments/investment-5"
+      label : "Zobacz"
+    style : "style2 major fa-building"
+
+  - name : "Nova Północ w Zgorzelcu. Budynki D, E, F, etap 2"
+    content : "Realizacja dostaw hydroizolacji, chemii budowlanej, systemów tarasowych i płytek ceramicznych."
+    button:
+      link : "investments/investment-6"
+      label : "Zobacz"
+    style : "style2 major fa-building"
 
     
