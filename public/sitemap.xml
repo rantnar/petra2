@@ -2,10 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/investments/investment-3/</loc>
-    <lastmod>2023-02-20T15:37:36+01:00</lastmod>
+    <loc>/investments/investment-6/</loc>
+    <lastmod>2023-03-05T21:57:47+01:00</lastmod>
   </url><url>
     <loc>/</loc>
+    <lastmod>2023-03-05T21:57:47+01:00</lastmod>
+  </url><url>
+    <loc>/investments/investment-5/</loc>
+    <lastmod>2023-03-05T21:57:37+01:00</lastmod>
+  </url><url>
+    <loc>/investments/investment-4/</loc>
+    <lastmod>2023-03-01T16:03:25+01:00</lastmod>
+  </url><url>
+    <loc>/investments/investment-3/</loc>
     <lastmod>2023-02-20T15:37:36+01:00</lastmod>
   </url><url>
     <loc>/investments/investment-2/</loc>
