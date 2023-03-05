@@ -14,43 +14,43 @@ content: |
 style: "style1 medium onscroll-fade-in"
 items:
   - name : "Młodzieżowe schronisko w Staniszowie"
-    content : "Rozbudowa schroniska. Zaopatrzenie inwestycji w płytki gresowe oraz chemie budowlaną."
+    content : ""
     button:
       link : "investments/investment-1"
       label : "Zobacz"
     style : "style2 major fa-building"
   
   - name : "Czarny Kamień Resort & Spa"
-    content : "Dostarczenie materiałów wykończeniowych i wykonanie hydroizolacji."
+    content : ""
     button:
       link : "investments/investment-2"
       label : "Zobacz"
     style : "style2 major fa-building"
   
   - name : "Nova Północ w Zgorzelcu. Budynki A, B, C, etap 1"
-    content : "Doradztwo inwestycyjne. Zaopatrzenie inwestycji w płytki gresowe oraz chemie budowlaną."
+    content : ""
     button:
       link : "investments/investment-3"
       label : "Zobacz"
     style : "style2 major fa-building"
   
   - name : "Publiczne przedszkole nr. 3 w Strzegomiu"
-    content : "Realizacja dostaw hydroizolacji, chemii budowlanej, systemów tarasowych i płytek gresowych."
+    content : ""
     button:
       link : "investments/investment-4"
       label : "Zobacz"
     style : "style2 major fa-building"
 
   - name : "Zespół szkół licealno-gimnazjalnych w Mirsku"
-    content : |
-      "Realizacja dostaw płytek gresowych."
+    content :
+      ""
     button:
       link : "investments/investment-5"
       label : "Zobacz"
     style : "style2 major fa-building"
 
   - name : "Nova Północ w Zgorzelcu. Budynki D, E, F, etap 2"
-    content : "Realizacja dostaw hydroizolacji, chemii budowlanej, systemów tarasowych i płytek ceramicznych."
+    content : ""
     button:
       link : "investments/investment-6"
       label : "Zobacz"

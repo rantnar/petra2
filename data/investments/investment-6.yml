@@ -1,10 +1,10 @@
 ####################### Spotlight #########################
 style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
 id: ""
-title : "Publiczne przedszkole nr. 3 w Strzegomiu"
+title : "Nova Północ w Zgorzelcu, etap 2, budynki D,E,F"
 content: |
   Realizacja dostaw hydroizolacji, chemii budowlanej, systemów tarasowych i płytek gresowych.
 button: 
   label: "List referencyjny"
-  link: "../../documents/investment-4.pdf"
-image: "../../images/investments/investment-4.jpg"
+  link: "../../documents/investment-6.pdf"
+image: "../../images/investments/investment-6.jpg"
