@@ -19,6 +19,7 @@ items:
       link : "investments/investment-1"
       label : "Zobacz"
     style : "style2 major fa-building"
+    thumbnail: "investment-1.jpg"
   
   - name : "Czarny Kamień Resort & Spa"
     content : ""
@@ -26,6 +27,7 @@ items:
       link : "investments/investment-2"
       label : "Zobacz"
     style : "style2 major fa-building"
+    thumbnail: "investment-2.jpg"
   
   - name : "Nova Północ w Zgorzelcu. Budynki A, B, C, etap 1"
     content : ""
@@ -33,6 +35,7 @@ items:
       link : "investments/investment-3"
       label : "Zobacz"
     style : "style2 major fa-building"
+    thumbnail: "investment-3.jpg"
   
   - name : "Publiczne przedszkole nr. 3 w Strzegomiu"
     content : ""
@@ -40,6 +43,7 @@ items:
       link : "investments/investment-4"
       label : "Zobacz"
     style : "style2 major fa-building"
+    thumbnail: "investment-4.jpg"
 
   - name : "Zespół szkół licealno-gimnazjalnych w Mirsku"
     content :
@@ -48,6 +52,7 @@ items:
       link : "investments/investment-5"
       label : "Zobacz"
     style : "style2 major fa-building"
+    thumbnail: "investment-5.jpg"
 
   - name : "Nova Północ w Zgorzelcu. Budynki D, E, F, etap 2"
     content : ""
@@ -55,5 +60,6 @@ items:
       link : "investments/investment-6"
       label : "Zobacz"
     style : "style2 major fa-building"
+    thumbnail: "investment-6.jpg"
 
     
