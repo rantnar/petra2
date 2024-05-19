@@ -1,6 +1,0 @@
----
-title: "Investment 4"
-date: 2023-03-01T16:03:25+01:00
-draft: false
----
-
