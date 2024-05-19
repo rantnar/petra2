@@ -1,0 +1,12 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : <img src="images/logoceramika.svg" width=100%>
+subtitle: |
+  Salon Łazienek Ceramika jest firmą rodzinną. Została założona w 2001 roku i nie przerwanie, mimo zawirowań, realizuje państwa marzenia o gustownych wnętrzach.
+content : |
+   <h2>Projektowanie łazienek</h2>Wychodząc na przeciw oczekiwaniom nowoczesnych klientów, oferujemy wykonane przez naszą projektantkę wizualizacje Państwa łazienek. Jeżeli zdecydują się Państwo na zakup u nas, wizualizacja jest gratis.<br>Przykładowe projekty zobaczyć można w <a href="#galeria">galerii</a>.<br>Szczegóły w regulaminie.
+button: 
+  label: "Regulamin"
+  link: "regulamin"
+image : "images/banner.jpg"
+

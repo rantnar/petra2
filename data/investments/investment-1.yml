@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: ""
+title : "Młodzieżowe schronisko w Staniszowie"
+content: |
+  Młodzieżowe Schronisko Turystyczne w Staniszowie to nowoczesny, całoroczny obiekt powstały poprzez realizacje projektu pn. „Młodzieżowe Schronisko Turystyczne w Staniszowie – adaptacja budynku szkoły podstawowej”. Współpracowaliśmy przy rozbudowie schroniska. Zaopatrzyliśmy inwestycję w płytki gresowe oraz chemie budowlaną.
+button: 
+  label: "List referencyjny"
+  link: "../../documents/investment-1.pdf"
+image: "../../images/investments/investment-1.jpg"

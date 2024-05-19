@@ -1,0 +1,36 @@
+## -----------------------------------------------
+## Basic Configuration
+## -----------------------------------------------
+
+title = "Noverra Ceramika Petra"
+theme = "hugo-story"
+
+
+## -----------------------------------------------
+## Hugo Built-in Features
+## -----------------------------------------------
+
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+# googleAnalytics = "your-google-analytics-id"
+
+
+## -----------------------------------------------
+## Site Parameters
+## -----------------------------------------------
+
+[Params]
+  description = "Noverra Ceramika Petra"
+  logo = "images/banner.jpg"
+  favicon = true
+
+[Params.social]
+  github = "/"
+  twitter = ""
+  email = "biuro@ceramikapetra.pl"
+  instagram = "https://www.instagram.com/ceramika_petra/"
+  facebook = "https://facebook.com"
+
+  [markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

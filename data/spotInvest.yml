@@ -1,0 +1,20 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "invest"
+title : "Obsługa Inwestycji"
+content: |
+  
+  <b>Sprawdzony partner w inwestycjach.</b><br>
+  <br>
+  Jesteśmy pasjonatami tworzenia, bo przecież każda inwestycja to swoiste novum.
+  Zaczynając od pomysłu inwestora, bierzemy udział w procesie powstawania projektu u architekta i projektanta, rozmawiamy i ustalamy szczegóły u generalnego wykonawcy, wykonawcy, podwykonawcy, kierownika lub inżyniera budowy, instalatora i wielu innych. Każdy inwestor, zleceniodawca, decydent jest dla nas ważny i ceniony.
+  <br><br>
+  Nasza firma istnieje od 2001r. W czasie tym udowodniliśmy naszym klientom  że jesteśmy  godną zaufania i rzetelną firmą.
+  Jesteśmy dystrybutorem wiodących polskich, europejskich oraz światowych producentów płytek ceramicznych, betonu architektonicznego, armatury i ceramiki sanitarnej, chemii budowlanej, parapetów, lameli ściennych, oświetlenia i wielu innych niespotykanych materiałów potrzebnych do wykończenia inwestycji. Projektujemy i pomagamy zrealizować izolacje przeciwilgociowe budynków. Posiadamy szeroką listę rzetelnych i  sprawdzonych  firm budowlanych.<br><br>
+  <b>Z nami od piwnicy aż po dach.</b> <br><br>
+  <b>Zachęcamy do kontaktu mailowego lub telefonicznego.</b>
+
+button: 
+  label: "Listy referencyjne"
+  link: "#items"
+image: "../images/photo_invest.jpg"
